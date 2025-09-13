@@ -28,3 +28,13 @@ This project was developed as part of an academic requirement and is accompanied
 ---
 
 ## 📂 Repository Structure  
+
+hotel_management/  
+├── docs/                      # Project documentation (Proposal, SAD, Final Report)  
+├── uploads/                   # Images and media (ignored in Git)  
+├── admin/                     # Admin-related pages and management  
+├── staff/                     # Staff portal and task management  
+├── customer/                  # Customer portal and booking pages  
+├── db_connect.php              # Database connection file  
+├── index.php                   # Landing page  
+├── README.md                   # Project overview (this file)  
