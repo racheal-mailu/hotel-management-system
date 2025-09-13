@@ -1,0 +1,9 @@
+# Ignore uploads folder
+/uploads/
+
+# Ignore common image types
+*.jpg
+*.jpeg
+*.png
+*.gif
+/uploads/ echo *.jpg echo *.png echo *.gif
