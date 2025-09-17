@@ -38,3 +38,12 @@ hotel_management/
 ├── db_connect.php              # Database connection file  
 ├── index.php                   # Landing page  
 ├── README.md                   # Project overview (this file)  
+
+---
+
+## 🎥 Demo Videos  
+
+1. [Customer Portal Navigation](https://youtu.be/6QbyNSv4t_g)  
+2. [Staff Portal Navigation](https://youtu.be/VzZgPezOekM)  
+3. [Admin Portal Navigation](https://youtu.be/fWcY504MKQk)  
+
